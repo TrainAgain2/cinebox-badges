@@ -1,8 +1,8 @@
-# Cinebox Gold Badges
+# Cinebox Elite Badges
 
 Pack padrão de badges para **CineboxPRO**, no formato JSON compatível com Badger.
 
-O pack usa o estilo dourado solicitado e inclui os grupos **Streaming** e **Language**. Os ícones de Streaming identificam Netflix, Prime Video, Apple TV+, Disney+, Max, Hulu, Peacock, Paramount+, Crave e Crunchyroll. O grupo Language identifica Alemão, Inglês, Espanhol, Francês, Hindi, Italiano, Japonês, Coreano, Latino, Português, Russo e Chinês.
+O pack utiliza como base os badges e as regras visuais do [Elite-Badges](https://github.com/leonevz/Elite-Badges). Foram adicionados dois grupos complementares, todos ativos: **Streaming** com Netflix, Prime Video, Apple TV+, Disney+, Max, Hulu, Peacock, Paramount+, Crave e Crunchyroll; e **Language** com Alemão, Inglês, Espanhol, Francês, Hindi, Italiano, Japonês, Coreano, Latino, Português, Russo e Chinês. No total, há 53 filtros ativos em 9 grupos.
 
 ## URL para o CineboxPRO
 
@@ -18,7 +18,7 @@ O arquivo mantém o formato Badger com `groups` e `filters`. O CineboxPRO suport
 
 ## Créditos das fontes
 
-- Base dourada e regras de Streaming/Language: [djgenesis/badges](https://github.com/djgenesis/badges), via `gold_badges_complete.json`.
-- Referência adicional de estilo Elite: [leonevz/Elite-Badges](https://github.com/leonevz/Elite-Badges).
+- Base visual, regras e ícones gerais: [leonevz/Elite-Badges](https://github.com/leonevz/Elite-Badges).
+- Regras e ícones complementares de Streaming e Language: [djgenesis/badges](https://github.com/djgenesis/badges).
 
 Este repositório publica uma configuração de compatibilidade para o CineboxPRO e preserva os links às fontes originais dos ícones.
