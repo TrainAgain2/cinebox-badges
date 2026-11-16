@@ -2,6 +2,8 @@
 
 Packs de badges para o **Cinebox** (addon Kodi) e para o **CineboxPRO** (APK), no formato JSON compatível com Badger/Nuvio.
 
+![Todos os badges do pack Cinebox](preview.png)
+
 ## Pack Cinebox (principal)
 
 Este pack tem 82 badges em PNG, com 81 deles ativos por padrão. As imagens ficam neste repositório, na pasta `cinebox/`, e por isso nada depende de servidores externos.
@@ -53,6 +55,7 @@ https://raw.githubusercontent.com/TrainAgain2/cinebox-badges/main/cinebox-gold-s
 ```text
 cinebox.json                          Pack Cinebox (principal)
 cinebox/                              Imagens PNG do pack Cinebox
+preview.png                           Foto com todos os badges do pack Cinebox
 cinebox-gold-streaming-language.json  Pack Elite (legado)
 assets/language/                      Bandeiras PT, PT-BR e RO do pack Elite
 ATTRIBUTION.md                        Créditos
