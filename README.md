@@ -2,7 +2,7 @@
 
 Packs de badges para o **Cinebox** (addon Kodi) e para o **CineboxPRO** (APK), no formato JSON compatível com Badger/Nuvio.
 
-![Todos os badges do pack Cinebox](preview.png)
+![Todos os badges do pack Cinebox](https://raw.githubusercontent.com/TrainAgain2/cinebox-badges/main/preview.png)
 
 ## Pack Cinebox (principal)
 
