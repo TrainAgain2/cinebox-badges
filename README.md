@@ -19,3 +19,13 @@ No CineboxPRO, abra **Configurações → Badges**, confirme esta URL e toque em
 ## Compatibilidade
 
 O arquivo mantém o formato Badger com `groups` e `filters`. O CineboxPRO suporta regras regex, badges de texto e imagens PNG/JPG/SVG. Os ícones são carregados das URLs públicas necessárias e não são redistribuídos neste repositório.
+
+## Pack Cinebox (estilo Fusion)
+
+Pack próprio com 82 badges em PNG (resolução, HDR/Dolby Vision, áudio, canais, codec, origem, streaming e bandeiras de idioma), com as imagens alojadas neste repositório na pasta `cinebox/`.
+
+```text
+https://raw.githubusercontent.com/TrainAgain2/cinebox-badges/main/cinebox.json
+```
+
+No Cinebox (Kodi): **Definições → Interface → Pacote de badges → Link do JSON (Nuvio)** e cole a URL acima.
